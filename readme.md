@@ -1,3 +1,19 @@
+# Gestionnaire de mots de passe (version Electron)
+
+## Description du projet
+
+Le projet consiste en un gestionnaire de mots de passe utilisant la technologie Electron, qui permet de créer des applications de bureau multiplateformes avec des technologies web (HTML, CSS et JavaScript). Le gestionnaire de mots de passe offre les mêmes fonctionnalités que la version en ligne de commande, mais avec une interface graphique utilisateur (GUI) plus conviviale.
+
+## Technologies utilisées
+
+Le projet utilise les technologies suivantes :
+
+- **Electron**: un framework permettant de développer des applications de bureau multiplateformes en utilisant des technologies web.
+- **Node.js**: une plateforme de développement côté serveur qui permet d'exécuter du code JavaScript en dehors d'un navigateur.
+- **HTML**: le langage de balisage utilisé pour structurer le contenu de l'application.
+- **CSS**: le langage de style utilisé pour personnaliser l'apparence de l'application.
+- **JavaScript**: le langage de programmation utilisé pour ajouter des fonctionnalités interactives à l'application.
+
 ## Parties intéressantes du code
 
 ### Chiffrement et déchiffrement des mots de passe
